@@ -1,4 +1,4 @@
-# 👋 Halo! Saya Faiz Nizar
+# 👋 Halo! Saya Faiz Nizar Nu'aim
 
 ### Mahasiswa Teknik Informatika | Univesitas Teknokrat Indonesia
 
