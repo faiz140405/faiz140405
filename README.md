@@ -6,10 +6,6 @@ Saya adalah seorang **Mahasiswa Teknik Informatika** yang bersemangat dalam peng
 
 ---
 
-## Saat Ini Saya Sedang Mengerjakan
-
-* [Sebutkan Proyek Aktif #1] - (Deskripsi singkat, misalnya: Proyek web menggunakan Django untuk manajemen data...)
-* [Sebutkan Proyek Aktif #2] - (Deskripsi singkat, misalnya: Eksplorasi performa dalam pengembangan game menggunakan C++...)
 * Saya selalu terbuka untuk kolaborasi dalam proyek-proyek menarik yang melibatkan [Python, php, nodeJS, atau sistem tertanam].
 
 ---
