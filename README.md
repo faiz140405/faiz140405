@@ -28,11 +28,6 @@ Berikut adalah beberapa bahasa dan alat yang saya gunakan:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 
-## Statistik GitHub
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faiz140405&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-
 ## Mari Terhubung!
 
 Anda dapat menemukan saya di berbagai platform atau mengirimkan email:
