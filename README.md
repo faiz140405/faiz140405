@@ -1,8 +1,44 @@
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Faiz_Nizar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC-DkYeDBWC3GzcWPEzBu8Fw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cahmargablok51@gmail.com) 
+# 👋 Halo! Saya Faiz Nizar
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
+### Mahasiswa Teknik Informatika | Univesitas Teknokrat Indonesia
+
+Saya adalah seorang **Mahasiswa Teknik Informatika** yang bersemangat dalam pengembangan perangkat lunak dan eksplorasi teknologi baru. Saya fokus pada pembangunan solusi yang efisien, terukur, dan berorientasi pada pengguna.
+
+---
+
+## Saat Ini Saya Sedang Mengerjakan
+
+* [Sebutkan Proyek Aktif #1] - (Deskripsi singkat, misalnya: Proyek web menggunakan Django untuk manajemen data...)
+* [Sebutkan Proyek Aktif #2] - (Deskripsi singkat, misalnya: Eksplorasi performa dalam pengembangan game menggunakan C++...)
+* Saya selalu terbuka untuk kolaborasi dalam proyek-proyek menarik yang melibatkan [Python, php, nodeJS, atau sistem tertanam].
+
+---
+
+## Teknologi (*Tech Stack*)
+
+Berikut adalah beberapa bahasa dan alat yang saya gunakan:
+
+**Bahasa Pemrograman:**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
+
+**Kerangka Kerja & Database:**
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+
+## Statistik GitHub
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faiz140405&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## Mari Terhubung!
+
+Anda dapat menemukan saya di berbagai platform atau mengirimkan email:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Faiz_Nizar) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC-DkYeDBWC3GzcWPEzBu8Fw) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cahmargablok51@gmail.com) 
+
+---
