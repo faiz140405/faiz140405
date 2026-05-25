@@ -1,16 +1,14 @@
 <div align="center">
-<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Faiz%20Nizar%20Nu'aim&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Faiz+%F0%9F%91%8B;Informatics+Engineering+Student;Python+%7C+PHP+%7C+Node.js+Developer;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-<br/>
-<!-- Social Badges -->
+<br/><br/>
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Faiz_Nizar)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@UC-DkYeDBWC3GzcWPEzBu8Fw)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cahmargablok51@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=FaizNizar&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/FaizNizar)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/YOUR_USERNAME)
  
 </div>
 ---
@@ -39,14 +37,16 @@ me.say_hi()
  
 ## 🚀 Tech Stack
  
-### 💻 Bahasa Pemrograman
+**💻 Bahasa Pemrograman**
+ 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
  
-### 🛠️ Framework & Tools
+**🛠️ Framework & Tools**
+ 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -59,22 +59,24 @@ me.say_hi()
  
 ## 📊 GitHub Statistics
  
+> ⚠️ **Ganti `YOUR_USERNAME` dengan username GitHub kamu sebelum upload!**
+ 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaizNizar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizNizar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=FaizNizar&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizNizar&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%"/>
 </div>
 ---
  
 ## 🏆 GitHub Trophies
  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FaizNizar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
 </div>
 ---
  
@@ -88,7 +90,7 @@ me.say_hi()
  
 ## 🤝 Mari Berkolaborasi!
  
-> Saya selalu terbuka untuk kolaborasi dalam proyek yang melibatkan **Python, PHP, Node.js**, atau **sistem tertanam**. Jika kamu punya ide menarik, jangan ragu untuk menghubungi saya!
+> Saya selalu terbuka untuk kolaborasi dalam proyek yang melibatkan **Python, PHP, Node.js**, atau **sistem tertanam**. Jika kamu punya ide menarik, jangan ragu menghubungi saya!
  
 <div align="center">
 [![LinkedIn](https://img.shields.io/badge/Terhubung_di_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Faiz_Nizar)
@@ -98,7 +100,6 @@ me.say_hi()
 ---
  
 <div align="center">
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn"/>
 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
  
